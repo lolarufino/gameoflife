@@ -5,8 +5,8 @@ We recreated John Conway's game of life. If you don't know about this game you c
 
 ## Technologies used
 
-⭐ Javascript | CSS 
+⭐ Javascript | HTML | CSS 
 
 ## Preview
 
-<img src="https://i.ibb.co/VDcHpgH/todolistreactcompressed.gif" alt="To Do List preview" />
+<img src="https://i.ibb.co/ZX56tZc/gameoflife.gif" alt="Game of Life preview" />
